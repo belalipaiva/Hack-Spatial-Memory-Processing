@@ -62,7 +62,9 @@ Aversive condition: Rats received unpredictable, mild eyelid shocks while in the
 
 As a team in this hackathon, your goal is to investigate how the learning phase affects brain activity during sleep and whether this effect differs under stressful conditions. Here is a list of ideas:
 Starting point:
-Look for patterns of co-activation between different brain regions that appear during Sleep II but not during Sleep I. These could represent memory consolidation processes.                                                                                                                                                    
+
+Look for patterns of co-activation, or coupling patterns between different brain regions that appear during Sleep II but not during Sleep I. 
+These could represent memory consolidation processes.                                                                                                                                                    
 **Advanced analysis:** 
 
 If you're feeling confident, try to identify these patterns during the Learning phase itself, then demonstrate that they were "replayed" or reactivated during Sleep II—this would provide evidence for memory consolidation.
@@ -73,13 +75,13 @@ How do single-cell firing patterns change between Sleep I and Sleep II?
 
 **Technical Details for the Curious**
 
-**What are Local Field Potentials (LFPs)?**LFPs represent the summed electrical activity of many neurons in a local region of brain tissue. They primarily reflect synaptic currents and are particularly useful for identifying rhythmic patterns of neural activity (oscillations) that coordinate activity across brain regions.
+**What are Local Field Potentials (LFPs)?** LFPs represent the summed electrical activity of many neurons in a local region of brain tissue. They primarily reflect synaptic currents and are particularly useful for identifying rhythmic patterns of neural activity (oscillations) that coordinate activity across brain regions.
 
 **How are LFPs and spikes recorded?** Data were recorded using silicon probes—thin electrode arrays that can simultaneously record from multiple brain regions and depths. These probes contain multiple recording sites along their length, allowing us to sample activity across different cortical layers.
 
 **What exactly are single-cell spikes?** Spikes (or action potentials) are the individual firing events of single neurons. By analyzing spike times, we can determine when individual cells are active and how they coordinate their activity with other neurons.
 
-**How were sleep stages determined? **Sleep stages were classified by analyzing theta rhythms (7-12 Hz oscillations) in the dHPC LFP:
+**How were sleep stages determined?** Sleep stages were classified by analyzing theta rhythms (7-12 Hz oscillations) in the dHPC LFP:
   - REM sleep: High theta power, associated with dreaming in humans and specific emotional memory consolidation processes;
   - NREM sleep: Low theta power, associated with slow-wave sleep and different consolidation mechanisms such as the occurrence of sharp-wave ripples and cellular reactivation.
 
