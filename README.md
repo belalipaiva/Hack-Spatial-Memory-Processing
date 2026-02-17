@@ -6,7 +6,7 @@ The dataset provided in this repository is **UNPLUBISHED DATA** and is made
 available **exclusively for use within the context of HACKATHON POTENTIAL**.
 
 The dataset:
-- may be used **ONLY FOR HANDS-ON ACTIVITIES DURING THE HACKATHON POTENTIAL (20-28)**
+- may be used **ONLY FOR HANDS-ON ACTIVITIES DURING THE HACKATHON POTENTIAL (from:20/02/2026-28/02/2026)**
 - may **NOT** be reused, redistributed, modified, or shared
 - may **NOT** be used for research, publication, or derivative works
 - may **NOT** be retained after the event
