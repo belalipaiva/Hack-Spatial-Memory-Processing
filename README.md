@@ -13,8 +13,6 @@ The dataset:
 
 All rights to the dataset are reserved by the authors. 
 
-In case after the hackathon you still thrilled to try out analysis of this type of dataset, you can access: 
-https://buzsakilab.com/wp/database/ - Here you can find exciting and multiple electrophysiological data, fully avaible and open source. 
 
 The CODE in this repository is released under the MIT License.
 
