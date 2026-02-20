@@ -14,6 +14,7 @@ The dataset:
 All rights to the dataset are reserved by the authors. 
 
 Data and example notebook can be accessed trough this page: **https://drive.google.com/drive/folders/14mSP5zmwj7ukhmhGYxlaYCjFgI8mt2Xp?usp=drive_link**
+Access will be released upon request.
 
 The CODE in this repository is released under the MIT License.
 
